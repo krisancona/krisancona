@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Director of Development, Senior Project Manager, Senior Product Manager, Director of Operations, Founder. Game and Product Designer. <br>🎓 Electronic Engineer Graduate from Universidad Autonoma de Baja California. <br>🚀 Master in Artificial Intelligence Graduate from Universidad Da Vinci. <br>💡 Learning and training about Data Science, Machine Learning, NPL, Deep Learning and Generative AI!
+🌟 Senior Project Manager, Senior Product Manager, Development Director, Founder. Game and Product Designer. <br>🎓 Electronic Engineer Graduate from Universidad Autonoma de Baja California. <br>🚀 Master in Artificial Intelligence Graduate from Universidad Da Vinci. <br>💡 Learning and training about Data Science, Machine Learning, NPL, Deep Learning and Generative AI!
 
 
 ## 🌐 Socials:
